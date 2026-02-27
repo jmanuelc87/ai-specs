@@ -62,8 +62,9 @@ This document outlines the best practices, conventions, and standards used in th
 ### Core Technologies
 - **CPython**: Runtime environment
 - **Python**: Type-safe development with strict mode
-- **Prefect**: Pipeline orchestration tool
-- **Pytorch**: Modern model development tool
+- **Pytorch**: Modern model development framework
+- **Prefect**: Framework for creating and orchestration of pipelines
+- **Accelerate**: Library that have utilities used for accelerating training
 
 ### Testing Framework
 - **PyTest** Testing framework with Python support
