@@ -21,14 +21,14 @@ Obtain a step-by-step plan for a Issue ticket that is ready to start implementin
 
 # Output format
 
-Markdown document at the path `ai-specs/changes/[issue_id]_backend.md` containing the complete implementation details.
+Markdown document at the path `ai-specs/changes/[issue_id]_mlops.md` containing the complete implementation details.
 Follow this template:
 
-## Backend Implementation Plan Ticket Template Structure
+## Implementation Plan Ticket Template Structure
 
 ### 1. **Header**
 
-- Title: `# Backend Implementation Plan: [ISSUE-ID] [Feature Name]`
+- Title: `# Implementation Plan: [ISSUE-ID] [Feature Name]`
 
 ### 2. **Overview**
 
